@@ -4,22 +4,21 @@
 
 <img width="1200" height="70" alt="image" src="https://github.com/user-attachments/assets/f3f7f78a-70bc-4a45-8595-ebac2e832c85" />
 
-<p align="left">
+<p align="center">
 Yap Yap
 
-<p align="left">
+<p align="center">
 Yap Yap
 
 <p align="right">
 <img width="200" height="400" alt="image" src="https://github.com/user-attachments/assets/3effb5f4-7b51-44ee-a4c2-ff671f5d828d" />
 
-
 <img width="1200" height="70" alt="image" src="https://github.com/user-attachments/assets/61d652c1-f89a-4ed2-80dc-76017de5f735" />
 
-<p align="right">
+<p align="center">
 Yap Yap
 
-<p align="right">
+<p align="center">
 Yap Yap
 
 <p align="left">
