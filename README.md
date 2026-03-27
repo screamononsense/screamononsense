@@ -4,7 +4,6 @@
 
 <img width="150" height="20" alt="image" src="https://github.com/user-attachments/assets/4bdb1aaf-6148-4752-9a43-df9745289bcf" /> <img width="150" height="20" alt="image" src="https://github.com/user-attachments/assets/82d98fc8-3d71-4f3a-b9ba-99e759bceb88" /> <img width="200" height="200" alt="image" src="https://github.com/user-attachments/assets/c0e5dee3-3e8b-4081-a49d-e7a07b053e1b" /> <img width="150" height="20" alt="image" src="https://github.com/user-attachments/assets/5d49dee3-ca6f-4263-8eaf-6d4be6050e0b" />
 
-
 ![Tumblr_l_151688375072271](https://github.com/user-attachments/assets/946a16cb-446c-4078-93e6-d1f79ac54a30) ![1](https://github.com/user-attachments/assets/7be529b9-6791-4f4d-932a-8bebd14c1481) ![1](https://github.com/user-attachments/assets/485e1292-b878-463c-8272-17a453096180) ![Tumblr_l_151695612860112](https://github.com/user-attachments/assets/f568773b-cb2c-4ea3-8be8-ec992bd36f90) ![1](https://github.com/user-attachments/assets/98b6248d-47d8-4e3b-9970-14bae8b9afa3)
 
 ![Tumblr_l_151717726671558](https://github.com/user-attachments/assets/1a229ce2-aa24-4392-b406-881a14ef98cd) ![1](https://github.com/user-attachments/assets/7e41bf3a-ef49-4071-bd1f-8bc312199555) 
@@ -23,6 +22,8 @@
 ![j4](https://github.com/user-attachments/assets/8244e0b6-47d7-4cc4-a19a-5af84fd1a198) ![i5](https://github.com/user-attachments/assets/2aa69c54-4046-4ec3-9227-31ed1935184e) ![f63](https://github.com/user-attachments/assets/84c6e887-b0e0-4a40-878d-72534baa8fdc) ![e18](https://github.com/user-attachments/assets/21321fbf-a4c8-44bc-9860-3d3822c3b463) ![1](https://github.com/user-attachments/assets/86d6b13b-c6e4-4487-bb7d-1700ba1e4652) ![1](https://github.com/user-attachments/assets/6e87ec62-796f-45bf-a28b-e5f211df54ad) ![e17](https://github.com/user-attachments/assets/725fb000-9971-4616-8585-9bd1c3a8ad6b) ![e10](https://github.com/user-attachments/assets/4f677ded-3827-4cca-be78-a9b7f4257fa7) ![1](https://github.com/user-attachments/assets/ef81ac9d-fea5-486f-baa2-d3d0bd944067) ![1](https://github.com/user-attachments/assets/22f5824e-28ab-44d3-a980-95e7d8ae0ad2) ![d4](https://github.com/user-attachments/assets/44d9a97c-0c06-4f52-8c77-857aa301d3c1) ![d30](https://github.com/user-attachments/assets/e4592e0d-7a12-43e4-8405-7502d9a7fdbf) ![d20](https://github.com/user-attachments/assets/80287ed5-db97-4678-b44a-9863eee776b0) ![d11](https://github.com/user-attachments/assets/e973f740-2010-471b-96d5-59d09995171d) ![c40](https://github.com/user-attachments/assets/86fc5d3f-b8d8-47cf-b1bc-99e5fc44d924) ![c65](https://github.com/user-attachments/assets/e517d146-112f-4062-a29f-41bdfe40cacd) ![c4](https://github.com/user-attachments/assets/6f0fae64-0813-47c9-8ab6-903fc95ca04c) ![b25](https://github.com/user-attachments/assets/816bcc0a-9378-4bb8-ab3a-1ea8d6c50d4a) ![b17](https://github.com/user-attachments/assets/e3405b5f-a4ed-4ee1-a5ef-c32f5252a0e8) ![b7](https://github.com/user-attachments/assets/f5ed4c98-afc3-48a2-bb34-24e39e25d980) ![a14](https://github.com/user-attachments/assets/ae660587-a7ca-46de-83db-a9ed7c47ec15)
 
 ![m11](https://github.com/user-attachments/assets/2bf00245-a0f9-49fa-85d9-088b8e1f0438) ![a50](https://github.com/user-attachments/assets/2b7f6469-c9fe-417e-b9e8-2176bc50fb05) ![c19](https://github.com/user-attachments/assets/46c1859f-f769-4026-b756-b3b97f488fc9)
+
+![555674442-70a29c25-512c-42e0-a3f1-0e14302646ff](https://github.com/user-attachments/assets/6ee5a85b-c7f2-4d9c-8ade-af5e7e040758)
 
 <img width="1200" height="70" alt="image" src="https://github.com/user-attachments/assets/f3f7f78a-70bc-4a45-8595-ebac2e832c85" />
 
@@ -52,3 +53,11 @@ Yap Yap
 <img width="1500" height="500" alt="image" src="https://github.com/user-attachments/assets/409a58cd-8fde-49fc-bd77-66bb1de07207" />
 
 <img width="1200" height="70" alt="image" src="https://github.com/user-attachments/assets/7acd420d-15fb-469f-a050-c1001bc71177" />
+
+_______________
+
+<p align="center">
+This repository was made by @PinkiePieExplosion!
+
+<p align="center">
+Credits to anyone for the blinkies & pngs
