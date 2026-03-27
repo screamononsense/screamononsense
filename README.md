@@ -42,7 +42,7 @@ he/they
 7teen
 
 <p align="center">
-please check out my links
+i dont accept friend requests
 
 <p align="left">
 
