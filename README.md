@@ -1,37 +1,4 @@
-<img width="1200" height="70" alt="image" src="https://github.com/user-attachments/assets/7acd420d-15fb-469f-a050-c1001bc71177" />
 
-<img width="1500" height="500" alt="image" src="https://github.com/user-attachments/assets/71a3ec2d-b874-488a-af8d-43da19d2933e" />
-
-<img width="1200" height="70" alt="image" src="https://github.com/user-attachments/assets/f3f7f78a-70bc-4a45-8595-ebac2e832c85" />
-
-<p align="center">
-jayden / house
-
-<p align="center">
-he/they 
-
-<p align="right">
-<img width="200" height="400" alt="image" src="https://github.com/user-attachments/assets/3effb5f4-7b51-44ee-a4c2-ff671f5d828d" />
-
-<img width="1200" height="70" alt="image" src="https://github.com/user-attachments/assets/61d652c1-f89a-4ed2-80dc-76017de5f735" />
-
-<p align="center">
-7teen
-
-<p align="center">
-i dont accept friend requests
-
-<p align="left">
-
-<img width="200" height="400" alt="image" src="https://github.com/user-attachments/assets/d11aee8b-c99f-4b74-a575-7a79502b2b3d" />
-
-<img width="1200" height="70" alt="image" src="https://github.com/user-attachments/assets/2ea6c76a-9b31-41d8-96c3-0bf17ab3c5a3" />
-
-<img width="1500" height="500" alt="image" src="https://github.com/user-attachments/assets/409a58cd-8fde-49fc-bd77-66bb1de07207" />
-
-<img width="1200" height="70" alt="image" src="https://github.com/user-attachments/assets/7acd420d-15fb-469f-a050-c1001bc71177" />
-
-<img width="150" height="20" alt="image" src="https://github.com/user-attachments/assets/4bdb1aaf-6148-4752-9a43-df9745289bcf" /> <img width="150" height="20" alt="image" src="https://github.com/user-attachments/assets/82d98fc8-3d71-4f3a-b9ba-99e759bceb88" /> <img width="200" height="200" alt="image" src="https://github.com/user-attachments/assets/c0e5dee3-3e8b-4081-a49d-e7a07b053e1b" /> <img width="150" height="20" alt="image" src="https://github.com/user-attachments/assets/5d49dee3-ca6f-4263-8eaf-6d4be6050e0b" />
 
 ![Tumblr_l_151688375072271](https://github.com/user-attachments/assets/946a16cb-446c-4078-93e6-d1f79ac54a30) ![1](https://github.com/user-attachments/assets/7be529b9-6791-4f4d-932a-8bebd14c1481) ![1](https://github.com/user-attachments/assets/485e1292-b878-463c-8272-17a453096180) ![Tumblr_l_151695612860112](https://github.com/user-attachments/assets/f568773b-cb2c-4ea3-8be8-ec992bd36f90) ![1](https://github.com/user-attachments/assets/98b6248d-47d8-4e3b-9970-14bae8b9afa3)
 
@@ -54,11 +21,3 @@ i dont accept friend requests
 
 ![555674442-70a29c25-512c-42e0-a3f1-0e14302646ff](https://github.com/user-attachments/assets/6ee5a85b-c7f2-4d9c-8ade-af5e7e040758)
 
-
-_______________
-
-<p align="center">
-This repository was made by @PinkiePieExplosion!
-
-<p align="center">
-Credits to anyone for the blinkies & pngs
