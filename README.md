@@ -9,6 +9,6 @@
   <img width="150" height="20" alt="Tumblr_l_151688375072271 (1)" src="https://github.com/user-attachments/assets/c6bd1a46-bbe0-4e04-9676-4b5f06bf837f" /> <img width="150" height="20" alt="Tumblr_l_151686554913272 (1)" src="https://github.com/user-attachments/assets/eeacf932-8e5f-4eeb-a044-8f976355586f" />
 
 <p align="center">
-  <a href="https://theymightbegiant.straw.page/" target="_blank">Strawpage</a> •
-  <a href="https://screamononsense.atabook.org/" target="_blank">Atabook</a>
+  <a href="https://theymightbegiant.straw.page/" target="_blank">strawpage</a> •
+  <a href="https://screamononsense.atabook.org/" target="_blank">atabook</a>
 </p>
