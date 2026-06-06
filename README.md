@@ -16,11 +16,6 @@
 </p>
 
 <p align="center">
-jayden / house
-  <p align="center">  
-     he, they , 7teen
-
-<p align="center">
   <a href="https://last.fm/user/screamononsense">
     <img width="310" src="https://lastfm.dedomil.workers.dev/screamononsense?color=4370B6&dark" alt="Last.fm Profile">
   </a>
