@@ -5,7 +5,7 @@
 <p align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=4800&pause=1000&color=4370B6&width=435&lines=we+all+make+mistakes%2C+and+we+all+pay+a+price" alt="Typing SVG" /></a>
 <p align="center">
-<img width="370" height="270" alt="Tumblr_l_432054483416006" src="https://github.com/user-attachments/assets/9776e7b2-3e77-48a4-9551-2bc41fe4652d" />
+<img width="360" height="260" alt="Tumblr_l_432054483416006" src="https://github.com/user-attachments/assets/9776e7b2-3e77-48a4-9551-2bc41fe4652d" />
 
 <p align="center"> 
   <img width="150" height="20" alt="Tumblr_l_151688375072271 (1)" src="https://github.com/user-attachments/assets/c6bd1a46-bbe0-4e04-9676-4b5f06bf837f" /> <img width="150" height="20" alt="Tumblr_l_151686554913272 (1)" src="https://github.com/user-attachments/assets/eeacf932-8e5f-4eeb-a044-8f976355586f" />
@@ -16,7 +16,7 @@
 </p>
 
 <p align="center">
-<img width="384" height="13" alt="tumblr_13ecc4dbe40329867403f7185fe53cca_d699e8b3_1280" src="https://github.com/user-attachments/assets/f24cc8b3-387d-4d83-bd8c-0a42f2704cd5" />
+<img width="314" height="9" alt="tumblr_13ecc4dbe40329867403f7185fe53cca_d699e8b3_1280" src="https://github.com/user-attachments/assets/f24cc8b3-387d-4d83-bd8c-0a42f2704cd5" />
 
 
 <p align="center">
