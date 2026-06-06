@@ -17,6 +17,6 @@
 
 <p align="center">
   <a href="https://last.fm/user/screamononsense">
-    <img width="310" src="https://lastfm.dedomil.workers.dev/metadow?dark">
+    <img width="310" src="https://lastfm.dedomil.workers.dev/screamononsense?dark" alt="Last.fm Profile">
   </a>
 </p>
