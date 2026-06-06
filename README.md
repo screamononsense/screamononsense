@@ -16,6 +16,10 @@
 </p>
 
 <p align="center">
+<img width="384" height="13" alt="tumblr_13ecc4dbe40329867403f7185fe53cca_d699e8b3_1280" src="https://github.com/user-attachments/assets/f24cc8b3-387d-4d83-bd8c-0a42f2704cd5" />
+
+
+<p align="center">
   <a href="https://last.fm/user/screamononsense">
     <img width="310" src="https://lastfm.dedomil.workers.dev/screamononsense?color=4370B6&dark" alt="Last.fm Profile">
   </a>
