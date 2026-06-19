@@ -24,3 +24,7 @@
     <img width="310" src="https://lastfm.dedomil.workers.dev/screamononsense?color=4370B6&dark" alt="Last.fm Profile">
   </a>
 </p>
+
+<p align="center">
+${\texttt{\color{#4370B6}magical colored text placeholder}}$ <br>
+
