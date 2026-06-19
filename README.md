@@ -26,5 +26,8 @@
 </p>
 
 <p align="center">
-${\texttt{\color{#4370B6}magical colored text placeholder}}$ <br>
+${\texttt{\color{#4370B6}ah house, ive heard your name}}$ <br>
+
+  <p align="center">
+  ${\texttt{\color{#2c4f86}most people have, its also a noun}}$ <br>
 
