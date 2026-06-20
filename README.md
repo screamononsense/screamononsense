@@ -26,8 +26,10 @@
 </p>
 
 <p align="center">
-${\texttt{\color{#4370B6}ah house, ive heard your name}}$ <br>
+<sub>${\texttt{\color{#4370B6}youre telling me that fifty million screaming fans are never wrong?}}$ <br>
 
-  <p align="center">
-  ${\texttt{\color{#2c4f86}most people have, its also a noun}}$ <br>
+<p align="center">
+<sub>${\texttt{\color{#1c3b6a}im telling you that fifty million screaming fans are fucking morons}}$ <br>
+
+
 
