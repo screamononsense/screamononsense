@@ -31,8 +31,6 @@
 <p align="center">
 <sub>${\texttt{\color{#1c3b6a}im telling you that fifty million screaming fans are fucking morons}}$ <br>
 
-<p align="center">
-<sub>${\texttt{\color{#1a1445}───────────────}}$ <br>
 
 
 <p align="center">
