@@ -31,5 +31,13 @@
 <p align="center">
 <sub>${\texttt{\color{#1c3b6a}im telling you that fifty million screaming fans are fucking morons}}$ <br>
 
+<p align="center">
+<sub>${\texttt{\color{#1a1445}───────────────}}$ <br>
+
+
+<p align="center">
+<img width="99" height="56" alt="d8qeo9g-da15f651-7c9d-4b19-bbc6-fd89dbe2f3a1" src="https://github.com/user-attachments/assets/6cb1340b-79e9-4212-89d3-2a2f17b302d4" /> <img width="112" height="56" alt="d1urlt9-2a77139c-b3c2-4498-907d-95f6aeb807c6" src="https://github.com/user-attachments/assets/9c2040c7-bcd7-47a3-a427-ab32a4d0fb82" />
+
+
 
 
