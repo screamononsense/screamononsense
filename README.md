@@ -29,7 +29,7 @@
 <sub>${\texttt{\color{#4370B6}youre telling me that fifty million screaming fans are never wrong?}}$ <br>
 
 <p align="center">
-<sub>${\texttt{\color{#1c3b6a}im telling you that fifty million screaming fans are fucking morons}}$ <br>
+${\texttt{\color{#1c3b6a}im telling you that fifty million screaming fans are fucking morons}}$ <br>
 
 
 
